@@ -58,9 +58,9 @@ model.fit(X_train,Y_train)
 st.write(df.head())
 
 
-# create side bar for user input for m
+# create sidebar for user input for m
 st.sidebar.title("Fill Customer Details")
-st.side bar.image(img_url)
+st.sidebar.image(img_url)
 
 
 all_ans = []
